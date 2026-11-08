@@ -1,0 +1,47 @@
+{
+  "uid": "7f8b2c1d-9e4a-4f3b-8a7c-5d6e9f0a1b2c",
+  "id": "spacedistortion",
+  "name": "Space Distortion Boss",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "itojames21",
+      "role": "Creator"
+    }
+  ],
+  "category": "Bosses",
+  "summary": "Adds the Space Distortion boss - a cosmic entity that warps reality and tears through dimensions.",
+  "updated": "2026-11-08",
+  "blVersion": 2,
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "entry": "SpaceDistortion.cs",
+  "dependencies": [],
+  "theme": {
+    "accent": "#9B59B6"
+  },
+  "pages": [
+    {
+      "title": "English",
+      "file": "description-en.md"
+    },
+    {
+      "title": "Português",
+      "file": "description.md"
+    },
+    {
+      "title": "Code / Código",
+      "file": "code.md"
+    }
+  ],
+  "localizedNames": {
+    "pt-BR": "Chefe Distorção Espacial",
+    "en-US": "Space Distortion Boss"
+  },
+  "localizedSummaries": {
+    "pt-BR": "Adiciona o chefe Distorção Espacial - uma entidade cósmica que distorce a realidade e rasga dimensões.",
+    "en-US": "Adds the Space Distortion boss - a cosmic entity that warps reality and tears through dimensions."
+  }
+}
